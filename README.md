@@ -65,7 +65,9 @@ We followed a multi-step approach to preprocess the data and build the classific
 ### 3. **XLM-RoBERTa**
 - A cross-lingual RoBERTa model trained on 100 different languages, including Telugu and English.
 
-![Methodology Flow Diagram](path_to_methodology_image)
+<p align="center">
+  <img src="https://i.imgur.com/zD2wzal.png" alt="Your Image Alt Text" width="600">
+</p>
 
 ---
 
