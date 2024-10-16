@@ -1,5 +1,3 @@
-Here’s a sample README file for your GitHub repository based on the information from your research paper on hate speech detection in Telugu-English code-mixed text:
-
 ---
 
 # IIITDWD_SVC-DravidianLangTech-2024
